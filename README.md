@@ -1,2 +1,2 @@
-# K19SB-G-18
-Student Record Management System
+# K19SB-G
+Student Record Management
